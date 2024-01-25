@@ -1,4 +1,4 @@
-Our goals:
-◆ Implement a single cycle CPU
-◆ Add multiplication/division unit (mulDiv) to CPU
-◆ Handle multi-cycle operations
+Our goals: 
+1. Implement a single cycle CPU 
+2. Add multiplication/division unit (mulDiv) to CPU 
+3. Handle multi-cycle operations
